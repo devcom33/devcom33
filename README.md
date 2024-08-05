@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Mouad ELBOUCHRAOUI</h2>
+<h1 align="center">Hi 👋, I'm Mouad ELBOUCHRAOUI</h1>
 
 ###
 
@@ -44,11 +44,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
 
 ###
 
