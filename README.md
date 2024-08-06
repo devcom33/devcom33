@@ -25,7 +25,8 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/devcom33/devcom33/output/snake.svg" alt="Snake animation" />
+<p align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"><img src="https://raw.githubusercontent.com/devcom33/devcom33/main/resources/img/github-contribution-grid-snake.svg" alt="example" style="max-width: 100%;"></a>
+</p
 
 ###
