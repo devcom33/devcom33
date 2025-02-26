@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engineer | Embedded Systems & Digital Services Master's Student
+Software Engineer | Data Scientist
 
 
 ## 🌐 Socials:
