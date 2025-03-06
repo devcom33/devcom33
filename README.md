@@ -19,7 +19,7 @@ Passionate about solving real-world problems through technology. In my free time
 
 # 🎯 What I Love Doing:
 - 🛠 Building fun side projects
-- 🏆 Solving coding challenges (LeetCode, HackerRank)
+- 🏆 Solving coding challenges & CTFs
 - ♟️ Playing chess and strategizing
 
 # 📊 GitHub Stats:
