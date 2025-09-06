@@ -3,7 +3,7 @@
 I'm Mouad — I like building backend systems with Java and Spring Boot. I'm interested in REST APIs, SaaS, and AI.
 
 ## Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mouad-elbouchraou) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mouaddev) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mouad-elbouchraou)
 
 # Tech Stack:
 <div align="left">
